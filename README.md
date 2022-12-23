@@ -3,8 +3,6 @@
 **Problem:**
 Identifying the compiler family and optimization level is a crucial phase for malware analysis and reverse engineering. Cracking binary files for extracting provenance information supports a faster detection of malware files. 
 
-**Dataset:**
-BinComp compiler fingerprinting dataset. https://github.com/BinSigma/BinComp/tree/master/Dataset.
 
 **Methodologies:**
 In this project, Logistic Regression, Support Vector Machines (SVM), Multi-Layer Perceptron (MLP), Decision tree, AdaBoost classifier, Random forest, 
@@ -16,3 +14,14 @@ The best test accuracy of 100% was achieved by the stacking model for the classi
 
 ![Compiler Family Confusion Matrix](https://github.com/MohamedElahl/Compiler-provenance-using-machine-learning/blob/main/assets/compiler%20family%20results.png)
 ![optimization level results](https://github.com/MohamedElahl/Compiler-provenance-using-machine-learning/blob/main/assets/optimization%20level%20results.png)
+
+
+## Dataset
+BinComp compiler fingerprinting dataset. https://github.com/BinSigma/BinComp/tree/master/Dataset.
+
+Disassembled and strings csv files are available upon request:
+1. dohaelhady14@gmail.com
+2. zezo.elahl@gmail.com
+3. hassan.mohamed21997@gmail.com
+4. karimbadreldin98@gmail.com
+
