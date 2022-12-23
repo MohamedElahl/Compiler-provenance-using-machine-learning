@@ -3,6 +3,9 @@
 **Problem:**
 Identifying the compiler family and optimization level is a crucial phase for malware analysis and reverse engineering. Cracking binary files for extracting provenance information supports a faster detection of malware files. 
 
+**Dataset:**
+BinComp compiler fingerprinting dataset. https://github.com/BinSigma/BinComp/tree/master/Dataset.
+
 **Methodologies:**
 In this project, Logistic Regression, Support Vector Machines (SVM), Multi-Layer Perceptron (MLP), Decision tree, AdaBoost classifier, Random forest, 
 ensemble learning, and model stacking were exploited for compiler provenance of executables. Features engineering was carried out by Strings utility 
