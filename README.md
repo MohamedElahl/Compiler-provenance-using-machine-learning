@@ -19,9 +19,9 @@ The best test accuracy of 100% was achieved by the stacking model for the classi
 ## Dataset
 BinComp compiler fingerprinting dataset. https://github.com/BinSigma/BinComp/tree/master/Dataset.
 
-Disassembled and strings csv files are available upon request:
-1. dohaelhady14@gmail.com
-2. zezo.elahl@gmail.com
-3. hassan.mohamed21997@gmail.com
-4. karimbadreldin98@gmail.com
+Disassembled and strings csv files are available upon request.
+[Request complete dataset](mailto:dohaelhady14@gmail.com,zezo.elahl@gmail.com,hassan.mohamed21997@gmail.com,karimbadreldin98@gmail.com?subject=Request%20Compiler%20Provenance%20CSV%20Dataset) 
 
+
+## Contributors
+[Mohamed Elahl](https://github.com/MohamedElahl) - [Hassan Mohamed](https://github.com/Hsnmhmd) - [Karim Youssef](https://github.com/KarimYoussef98) - [Doha ElHady](https://github.com/DohaElHady)
